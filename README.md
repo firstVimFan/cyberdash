@@ -1,6 +1,6 @@
 # CyberDash ⚡
 
-Tableau de bord de veille cybersécurité et IT pour terminal, conçu pour Kali Linux.  
+Tableau de bord de veille cybersécurité et IT pour terminal, conçu pour Linux.  
 S'ouvre automatiquement à la connexion graphique, se rafraîchit toutes les 2 heures sans intervention.
 
 ```

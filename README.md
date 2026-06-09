@@ -82,7 +82,7 @@ S'ouvre automatiquement à la connexion graphique, se rafraîchit toutes les 2 h
 ### Méthode rapide (recommandée)
 
 ```bash
-git clone <url-du-repo> ~/cyberdash
+git clone https://github.com/firstVimFan/cyberdash ~/cyberdash
 cd ~/cyberdash
 bash install.sh
 ```
